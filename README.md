@@ -1,7 +1,7 @@
 ### Hi, I'm Asin <img src="https://c.tenor.com/dwbDDIG9LY4AAAAC/tokyo-revengers-manjiro-sano.gif" width="40px">
 
 <!--
-**NeroZbeub/NeroZbeub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NeroZbeub/NeroZbeub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 - 🔭 I’m currently working on something really cool
 - 🌱 I’m currently learning Python
